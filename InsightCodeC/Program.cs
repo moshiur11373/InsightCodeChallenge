@@ -16,7 +16,7 @@ namespace InsightCodeC
 
         public static void Main(string[] args)
         {
-            //WordCount();
+            WordCount();
 
             UniqueWordsMedian();
         }
