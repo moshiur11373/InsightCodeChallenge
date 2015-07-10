@@ -1,0 +1,4 @@
+C:\My Documents\Visual Studio 2010\Projects\Tutorial\InsightCodeC\InsightCodeC\bin\Debug\InsightCodeC.exe
+C:\My Documents\Visual Studio 2010\Projects\Tutorial\InsightCodeC\InsightCodeC\bin\Debug\InsightCodeC.pdb
+C:\My Documents\Visual Studio 2010\Projects\Tutorial\InsightCodeC\InsightCodeC\obj\x86\Debug\InsightCodeC.exe
+C:\My Documents\Visual Studio 2010\Projects\Tutorial\InsightCodeC\InsightCodeC\obj\x86\Debug\InsightCodeC.pdb
